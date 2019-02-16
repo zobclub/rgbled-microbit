@@ -1,0 +1,17 @@
+{
+    "name": "rgbled-microbit",
+    "version": "1.0.0",
+    "description": "RGB LED Display board in MakeCode",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "rgbled.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
